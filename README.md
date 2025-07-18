@@ -46,7 +46,7 @@ You have to switch to the project directory with `cd` command first.
 
 On Linux, BSD, and macOS, you need to run these commands.
 ```
-export EMAIL_USER="otu168xchen@yahoo.com"
+export EMAIL_USER="your-user-name@yahoo.com"
 export EMAIL_PASS="your-generated-app-password-here"
 ```
 On Windows, you need to run these commands in command prompt.
